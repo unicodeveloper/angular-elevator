@@ -1,0 +1,31 @@
+{
+  "name": "angular-elevator",
+  "version": "0.0.0",
+  "homepage": "https://github.com/busayo/angular-elevator",
+  "authors": [
+    "busayo <prosperotemuyiwa@gmail.com>"
+  ],
+  "description": "An angular elevator directive that works with elevator.js",
+  "main": "app.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "elevator",
+    "angularjs",
+    "angular-elevator"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
