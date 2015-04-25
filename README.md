@@ -33,7 +33,7 @@ Finally, you must include the markup directive on your HTML page as an Element, 
 <elevator></elevator>
 ```
 
-Or As an attribute:
+Or as an attribute:
 
 ```
 <div elevator>
