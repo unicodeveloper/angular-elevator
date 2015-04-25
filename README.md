@@ -5,6 +5,7 @@ angular-elevator is an AngularJs directive that enables us to interact with Elev
 # How to use it
 
 Include Elevator.js script in your HTML file.
+Include angular-elevator also in your HTML file.
 
 ```
 <!doctype html>
