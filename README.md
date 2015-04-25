@@ -7,7 +7,7 @@ angular-elevator is an AngularJs directive that enables us to interact with Elev
 Include Elevator.js script in your HTML file.
 Include angular-elevator also in your HTML file.
 
-```
+```html
 <!doctype html>
 <html lang="en" ng-app="demoapp">
 <head>
@@ -24,18 +24,18 @@ Include angular-elevator also in your HTML file.
 
 Include the angular-elevator directive dependency on your angular module:
 
-```
+```javascript
 var app = angular.module("demoapp", ["ngElevator"]);
 ```
 
 Finally, you must include the markup directive on your HTML page as an Element, like this:
 
-```
+```html
 <elevator></elevator>
 ```
 
 Or as an attribute:
 
-```
+```html
 <div elevator>
 ```
