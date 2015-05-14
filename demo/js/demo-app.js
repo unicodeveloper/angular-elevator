@@ -1,1 +1,1 @@
-window.angular.module('demoModule', ['ngElevator']);
+angular.module('demoModule', ['ngElevator']);
