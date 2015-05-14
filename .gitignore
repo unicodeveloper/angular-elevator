@@ -1,12 +1,3 @@
-# OSX Stuff
 .DS_Store
-
-# Vendor folder
-vendor
-
-# Logs
-logs
+vendor/
 *.log
-
-
-export_*
